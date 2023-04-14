@@ -6,7 +6,7 @@ Este proyecto es una aplicación CRUD (Crear, Leer, Actualizar, Eliminar) constr
 Requisitos
 Para poder ejecutar este proyecto, necesitarás tener instalado lo siguiente:
 
- - Python 3.9-X
+ - Python 3.9.X
  - PostgreSQL 13
  - Pip (gestor de paquetes de Python)
 
