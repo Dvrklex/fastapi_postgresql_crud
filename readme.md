@@ -43,4 +43,4 @@ Para poder ejecutar este proyecto, necesitarás tener instalado lo siguiente:
 uvicorn main:app --reload
 ```
 2. Accede a la API en tu navegador con la siguiente URL: http://localhost:8000/docs
-3. Prueba los endpoint de la API con SwaggerUI.s
+3. Prueba los endpoint de la API con SwaggerUI.
