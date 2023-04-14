@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+SQLAlchemy==1.4.*
+databases
+DateTime
+typing
+uuid
+pydantic
+passlib
+psycopg2
+psycopg2-binary
+dotenv
+bcrypt
