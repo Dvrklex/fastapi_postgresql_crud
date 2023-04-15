@@ -1,4 +1,4 @@
-# FastApi + PostgreSQL 13 CRUD
+# FastApi + PostgreSQL 13 
 
 Este proyecto es una aplicación CRUD (Crear, Leer, Actualizar, Eliminar) construida con FastAPI y PostgreSQL. Permite gestionar usuarios en una base de datos.
 
